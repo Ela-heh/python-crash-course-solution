@@ -6,5 +6,6 @@ for sandwich in sandwich_orders:
 while sandwich_orders :
     finished = sandwich_orders.pop()
     finished_sandwiches.append(finished)
+print ("\nthese sandwiches are ready :")
 for finished in finished_sandwiches:
-    print (f"these sandwiches are ready : {finished}")
+    print (f"- {finished.title()}")

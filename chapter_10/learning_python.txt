@@ -1,0 +1,7 @@
+I'm able to code stuffs in python
+i can write lists and dictinaries
+i can write classes 
+i can import files and read them via code
+i can create random numbers in python
+and i'll be able to create games through python , 
+building apps in python is my dream
